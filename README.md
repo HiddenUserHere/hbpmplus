@@ -78,3 +78,4 @@ Open ```http://localhost:8000``` and click on Generate Key
 
 # Demo
 
+![Demo](https://raw.githubusercontent.com/HiddenUserHere/hbpmplus/master/example.gif)
