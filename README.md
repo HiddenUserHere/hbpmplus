@@ -34,6 +34,12 @@ Copy or rename ```.env.example``` to ```.env``` and edit this to your configurat
 ### Live Demo
 Open ```http://localhost:8000``` and click on Generate Key
 
+
+### Tests
+```php artisan test```
+
+This will test if the api token and data is generated.
+
 # Rest API
 
 `POST /api/newtoken`
